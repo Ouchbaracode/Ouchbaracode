@@ -1,6 +1,8 @@
+# 👋 Hello! I'm Mohamed Ouchbara First-Year BTS Student | AI Development Enthusiast | Lifelong Learner<br>
 # 💫 About Me:
-👋 Hello! I'm Mohamed Ouchbara First-Year BTS Student | AI Development Enthusiast | Lifelong Learner<br>🎓 Studying: Artificial Intelligence Development at BTS, Morocco <br>💡 Passionate about: AI, Machine Learning, and Software Development <br>🌱 Currently learning: Python, Data Analysis, and Machine Learning Basics <br>🔭 Goals: Develop projects that apply AI to real-world problems, connect with other developers, and contribute to open-source AI projects What You'll Find Here AI Projects – From small experiments to applied AI projects as I learn and grow Code Exercises – Practice projects in Python, data science, and more Open-Source Contributions – Where possible, I contribute to projects in AI and development Let’s Connect I'm always open to connecting with others who share my interests in AI and technology. Feel free to reach out if you’d like to collaborate, discuss AI, or exchange ideas!
-
+🎓 Studying: Artificial Intelligence Development at BTS, Morocco
+<br>
+💡 Passionate about: AI, Machine Learning, and Software Development <br>🌱 Currently learning: Python, Data Analysis, Machine Learning ,and Deep Learning <br>🔭 Goals: Develop projects that apply AI to real-world problems, connect with other developers.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamedouchbara/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ouchbara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedouchbara@gmail.com) 
