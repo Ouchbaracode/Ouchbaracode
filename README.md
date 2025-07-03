@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Mohamed Ouchbara Seond-Year BTS Student | AI Development Enthusiast | Lifelong Learner<br>
+# 👋 Hello! I'm Mohamed Ouchbara Second-Year BTS Student | AI Development Enthusiast | Lifelong Learner<br>
 # 💫 About Me:
 🎓 Studying: Artificial Intelligence Development at BTS, Morocco
 <br>
