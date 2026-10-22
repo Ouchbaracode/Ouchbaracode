@@ -30,7 +30,7 @@ class MohamedOuchbara:
     def __init__(self):
         self.name       = "Mohamed Ouchbara"
         self.role       = "AI Development Student"
-        self.education  = "BTS – 2nd Year, Morocco 🇲🇦"
+        self.education  = "Bachelor – Est Meknes, Morocco 🇲🇦"
         self.location   = "Goulmima, Morocco"
 
     @property
@@ -63,7 +63,7 @@ me.say_hi()
 | | |
 |---|---|
 | 🔭 | Working on AI projects |
-| 🎓 | BTS – AI Development |
+| 🎓 | Bachelor – AI & Data |
 | 🌍 | Morocco |
 | 💬 | Ask me about **AI & ML** |
 | ⚡ | Lifelong learner |
